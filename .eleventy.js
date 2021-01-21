@@ -1,4 +1,5 @@
 module.exports = function(eleventyConfig) {
     
-    eleventyConfig.addPassthroughCopy("CNAME");
+    // eleventyConfig.addPassthroughCopy("CNAME");
+    // Add a CNAME file
 }
